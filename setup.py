@@ -6,5 +6,5 @@ setup(
   author_email="gsebs70@gmail.com",
   license="MIT license",
   discription="This is my math library",
-  packages=["Data_Science"]
+  packages=["Machine_Learning"]
 )
